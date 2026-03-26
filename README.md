@@ -18,7 +18,7 @@ Estoque · Vendas · Fornecedores · Controle de Usuários
 
 ---
 
-📄 **[Ver página do projeto](https://renteriajuan.github.io/hortifruti-system)**
+📄 **[Ver página do projeto](https://renteriajuan.github.io/Gestao-de-Hortifruti/portfolio-hortifruti.html)**
 
 </div>
 
