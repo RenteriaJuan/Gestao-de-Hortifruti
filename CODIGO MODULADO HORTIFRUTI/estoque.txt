@@ -1,0 +1,3 @@
+0;Cocacola;70;6,00
+2;Papiros;40;60,00
+3;Clasismo;60;3,60

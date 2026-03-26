@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1774541765 source:c:\users\usuario\documents\c project\codigo modulado hortifruti\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	"Estoque_cabecalho.h"
+	"Fornecedores.h"
+	"Vendas.h"
+
+1774540983 c:\users\usuario\documents\c project\codigo modulado hortifruti\estoque_cabeçalho.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+
+1733177788 c:\users\usuario\documents\c project\codigo modulado hortifruti\fornecedores.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1733192482 c:\users\usuario\documents\c project\codigo modulado hortifruti\vendas.h
+	<stdio.h>
+	<locale.h>
+	"Estoque_cabeçalho.h"
+
+1774540929 c:\users\usuario\documents\c project\codigo modulado hortifruti\estoque_cabecalho.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+
